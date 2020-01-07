@@ -11,6 +11,6 @@ lexical_070 = { version = "0.7", package = "lexical-core" }
 lexical_043 = { version = "0.4.3", package = "lexical-core" }
 
 [dependencies.nom]
-git = "https://github.com/Geal/nom"
+git = "https://github.com/Alexhuszagh/nom"
 #default-features = false
 
